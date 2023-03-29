@@ -1,8 +1,10 @@
-# WDI_Visualization
+# WDI Visualization
+The Script provides advanced use cases visualizatios with R programming language using WDI data base
 
 
 Work in progess
 
+## Structure
 [./data](/data) contains the source data \
 [./Plots](/Plots) Output of the plots \
 
